@@ -1,2 +1,4 @@
 .venv
 .env
+
+notebook/starter_notebook.ipynb
