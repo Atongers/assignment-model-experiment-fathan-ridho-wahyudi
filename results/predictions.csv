@@ -1,0 +1,42 @@
+review_id,product_name,review_text,y_true,y_pred_classic,y_pred_llm,llm_raw_response,llm_latency_sec,llm_status,llm_prompt_tokens,llm_output_tokens
+1,Kemeja Flanel,Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif,negatif,negatif,1.5868,ok,69.0,2.0
+2,Case HP,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,positif,positif,0.5745,ok,68.0,2.0
+18,Jaket Hoodie,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,positif,positif,1.4,ok,68.0,2.0
+27,Case HP,"Kualitas produk sangat memuaskan, akan order lagi.",positif,negatif,positif,positif,0.5968,ok,68.0,2.0
+29,Sandal Jepit,Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif,negatif,negatif,0.6997,ok,69.0,2.0
+31,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,negatif,0.6292,ok,69.0,2.0
+40,Charger Cepat,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,positif,positif,0.5997,ok,71.0,2.0
+43,Kemeja Flanel,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,negatif,1.359,ok,69.0,2.0
+45,Kursi Lipat,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,positif,0.8999,ok,68.0,2.0
+60,Case HP,"Kualitas produk sangat memuaskan, akan order lagi.",positif,negatif,positif,positif,0.7594,ok,68.0,2.0
+66,Blender Mini,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,negatif,negatif,0.7299,ok,68.0,2.0
+70,Lampu LED,"Kualitas produk sangat memuaskan, akan order lagi.",positif,negatif,positif,positif,0.7665,ok,68.0,2.0
+71,Botol Minum,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,negatif,negatif,0.5868,ok,68.0,2.0
+76,Charger Cepat,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,positif,1.0778,ok,68.0,2.0
+78,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,negatif,0.8906,ok,69.0,2.0
+82,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,negatif,2.687,ok,69.0,2.0
+96,Kursi Lipat,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,positif,5.6611,ok,68.0,2.0
+97,Kursi Lipat,"Kualitas produk sangat memuaskan, akan order lagi.",positif,negatif,positif,positif,0.5976,ok,68.0,2.0
+102,Case HP,Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif,negatif,negatif,0.788,ok,69.0,2.0
+109,Kemeja Flanel,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,positif,positif,0.6084,ok,71.0,2.0
+110,Case HP,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,positif,0.5694,ok,68.0,2.0
+115,Kemeja Flanel,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,negatif,negatif,0.7468,ok,68.0,2.0
+121,Kursi Lipat,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,positif,positif,0.6262,ok,71.0,2.0
+122,Rice Cooker,Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif,negatif,negatif,1.0385,ok,69.0,2.0
+124,Botol Minum,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,positif,positif,0.5907,ok,68.0,2.0
+127,Sandal Jepit,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,negatif,0.7548,ok,69.0,2.0
+129,Rice Cooker,"Kualitas produk sangat memuaskan, akan order lagi.",positif,negatif,positif,positif,0.5886,ok,68.0,2.0
+133,Botol Minum,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,positif,positif,0.5914,ok,71.0,2.0
+135,Tas Ransel,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,positif,positif,0.738,ok,68.0,2.0
+142,Headset Bluetooth,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,positif,0.7432,ok,68.0,2.0
+144,Kaos Polos,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,positif,positif,0.8893,ok,71.0,2.0
+153,Kursi Lipat,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,positif,0.7227,ok,68.0,2.0
+154,Sepatu Sneakers,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,positif,positif,0.5957,ok,71.0,2.0
+156,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,negatif,0.7466,ok,69.0,2.0
+157,Charger Cepat,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,invalid,,5.3589,api_error,,
+165,Case HP,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,invalid,,5.2496,api_error,,
+181,Rice Cooker,"Mantap, sesuai gambar dan harga terjangkau.",positif,positif,invalid,,5.2999,api_error,,
+185,Charger Cepat,"Mantap, sesuai gambar dan harga terjangkau.",positif,positif,invalid,,5.3072,api_error,,
+187,Sepatu Sneakers,"Kualitas produk sangat memuaskan, akan order lagi.",positif,negatif,invalid,,5.3032,api_error,,
+192,Kursi Lipat,Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif,invalid,,5.3328,api_error,,
+198,Kemeja Flanel,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,negatif,invalid,,5.2815,api_error,,
