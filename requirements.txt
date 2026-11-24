@@ -1,3 +1,6 @@
 pandas
 scikit-learn
 python-dotenv
+google-genai
+matplotlib
+seaborn
